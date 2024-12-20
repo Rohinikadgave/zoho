@@ -1,0 +1,7 @@
+pickle
+pandas
+flask
+numpy
+sklearn
+re
+warnings
