@@ -1,7 +1,5 @@
-pickle
 pandas
-flask
 numpy
-sklearn
-re
-warnings
+scikit-learn
+flask
+pickle5
